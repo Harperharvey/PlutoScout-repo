@@ -1,0 +1,5 @@
+flask
+requests
+playwright
+sqlite3
+python-dotenv
