@@ -1,3 +1,4 @@
+import os
 from flask import Flask, request, jsonify
 from scout_engine import run_scout_script
 from temp_account import create_temp_account
